@@ -9,8 +9,8 @@
   <name>DEMOCONTAINER Codes Master</name>
   <url>http://www.talend.org/</url>
   <modules>
-    <module>jobs/process/testcontainer_0.1</module>
     <module>code/routines</module>
+    <module>jobs/process/testcontainer_0.1</module>
   </modules>
   <properties>
     <talend.project.name>DEMOCONTAINER</talend.project.name>

@@ -9,9 +9,9 @@
     <relativePath>../../../</relativePath>
   </parent>
   <groupId>org.example.democontainer.job</groupId>
-  <artifactId>testContainer</artifactId>
+  <artifactId>testcontainer</artifactId>
   <version>0.1.0</version>
-  <name>DEMOCONTAINER testContainer-0.1.0 (0.1,Jobs)</name>
+  <name>DEMOCONTAINER testcontainer-0.1.0 (0.1,Jobs)</name>
   <properties>
     <output.resources.dir>${talend.job.name}/src/main/resources</output.resources.dir>
     <talend.job.applyContextToChildren>false</talend.job.applyContextToChildren>
@@ -33,7 +33,7 @@
     <talend.job.stat>true</talend.job.stat>
     <talend.job.date>${maven.build.timestamp}</talend.job.date>
     <current.resources.dir>${basedir}/src/main/ext-resources</current.resources.dir>
-    <talend.job.name>testContainer</talend.job.name>
+    <talend.job.name>testcontainer</talend.job.name>
     <talend.job.id>_KHUzYGmAEeiqWNTC8HAb0Q</talend.job.id>
     <talend.project.id>0</talend.project.id>
     <talend.job.framework></talend.job.framework>
