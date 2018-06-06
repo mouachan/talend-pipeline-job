@@ -441,4 +441,6 @@
     <migrationTask xmi:id="_f0bEbml-EeiqWNTC8HAb0Q" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_ejLecml-EeiqWNTC8HAb0Q" login="mourad@talend.com" firstName="mourad" lastName="mourad" type="MDM" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_W6whQWmOEei_AbdHfGrUTw" login="admin@talend.com" firstName="admin" lastName="admin" type="MDM" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_W6whQmmOEei_AbdHfGrUTw" login="francois@neosphere.com" firstName="francois" lastName="avedian" type="MDM" additionnalData="{}"/>
 </xmi:XMI>
